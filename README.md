@@ -1,6 +1,7 @@
 #  Curso MERN - Git
 En este proyecto voy a ir agregando los ejercicios que vayan dando en el curso.
-
+Arreglar algunas cosas de la interfaz gráfica y la traducción final de este readme.
+Cualquier cosa me escriben al slack, telegram o a c9.lucas@gmail.com
 ## Instalar
 
 https://nodejs.org/en/

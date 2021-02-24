@@ -1,12 +1,17 @@
 import React from 'react';
 import '../App.css';
 import { Button } from 'react-bootstrap';
+import { Label } from 'semantic-ui-react'
 import {
 Link
 } from "react-router-dom";
 
 
 function Inicio() {
+    const styleLink = document.createElement("link");
+    styleLink.rel = "stylesheet";
+    styleLink.href = "https://cdn.jsdelivr.net/npm/semantic-ui/dist/semantic.min.css";
+    document.head.appendChild(styleLink);
 return (
     <div className="App">
     <header className="App-header">

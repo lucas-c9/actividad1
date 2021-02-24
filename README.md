@@ -1,31 +1,32 @@
-# Actividad 1 Curso MERN - Git
+#  Curso MERN - Git
+En este proyecto voy a ir agregando los ejercicios que vayan dando en el curso.
 
-## Available Scripts
+## Instalar
 
-In the project directory, you can run:
+https://nodejs.org/en/
 
+
+### COMANDOS:
 ### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Ejecuta la app en modo desarrollador creando un sitio de prueba en:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[http://localhost:3000](http://localhost:3000)
+
+Se recarga cuando se guardan cambios en el proyecto.
+Los errores se muestra en consola.
+
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Lanza el test runner.
+Más info en [Test](https://facebook.github.io/create-react-app/docs/running-tests)
 
 ### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Comando para builder la app.
+Crea la carpeta `build`.
+Más info en [deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run eject`
 

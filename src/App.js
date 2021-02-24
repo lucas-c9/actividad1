@@ -1,24 +1,13 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import { Router } from 'react-router-dom';import history from './services/history';
+import Routes from './routes';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Hi! This was made for MERN course!
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          In ReactJS
-        </a>
-      </header>
-    </div>
+    <Router history={history}>
+      <Routes />
+    </Router>
   );
 }
 

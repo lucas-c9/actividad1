@@ -1,8 +1,8 @@
 import React from 'react';
 import "./Bloque2.css";
-import Button from "./components/Button";
-import Input from "./components/Input";
-import ClearButton from "./components/ClearButton";
+import Button from "../components/Button";
+import Input from "../components/Input";
+import ClearButton from "../components/ClearButton";
 
 class Bloque2 extends React.Component {
     constructor(props) {

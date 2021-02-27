@@ -6,13 +6,17 @@ Cualquier cosa me escriben al slack, telegram o a c9.lucas@gmail.com
 
 https://nodejs.org/en/
 
+INSTRUCCIONES PARA LINUX UBUNTU
+### sudo apt update
+### sudo apt install nodejs
+### sudo apt install npm
 
-### COMANDOS:
+COMANDOS:
 ### `npm start`
 
-Ejecuta la app en modo desarrollador creando un sitio de prueba en:
 
-[http://localhost:3000](http://localhost:3000)
+
+:tp://localhost:3000](http://localhost:3000)
 
 Se recarga cuando se guardan cambios en el proyecto.
 Los errores se muestra en consola.

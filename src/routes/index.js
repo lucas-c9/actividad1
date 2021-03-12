@@ -1,6 +1,6 @@
 import React from "react";
 import { Switch } from "react-router-dom";
-import Route from "./Route";
+import Route from "./route";
 
 import Inicio from "../screens/Inicio"
 import Bloque2 from "../screens/Bloque2";
